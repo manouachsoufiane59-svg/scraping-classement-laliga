@@ -1,4 +1,4 @@
-# Classement de La Liga — Projet de web scraping
+# Classement de La Liga - Projet de web scraping
 
 ## Présentation
 
